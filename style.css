@@ -233,6 +233,12 @@ width: 100%;
     transform: translateY(-10px);
 }
 
+ul li a {
+        list-style: none;
+    text-underline-offset: none;
+    text-decoration: none;
+    color: #ABABAB;
+}
 /* ----------PORTFOLIO---------- */
 #portfolio {
     padding: 50px 0;
